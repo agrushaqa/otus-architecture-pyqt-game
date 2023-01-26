@@ -1,0 +1,20 @@
+2023-01-26 16:53:53.864 | INFO     | features.steps.src.ioc_commands_queue:queue_handler:99 - ioc_register_direct_queue get command:
+2023-01-26 16:53:53.864 | INFO     | features.steps.src.ioc_commands_queue:queue_handler:99 - ioc_register_direct_queue get command:
+2023-01-26 16:53:53.869 | INFO     | features.steps.src.ioc_commands_queue:queue_handler:100 - ('HardStop', <bound method IocCommandQueue.stop of <features.steps.src.ioc_commands_queue.IocCommandQueue object at 0x7fbab1737340>>)
+2023-01-26 16:53:53.870 | INFO     | features.steps.src.ioc_commands_queue:queue_handler:100 - ('HardStop', <bound method IocCommandQueue.stop of <features.steps.src.ioc_commands_queue.IocCommandQueue object at 0x7fbab1737d60>>)
+2023-01-26 16:53:53.870 | INFO     | features.steps.src.ioc_commands_queue:ioc_register_queue:67 - HardStop
+2023-01-26 16:53:53.870 | INFO     | features.steps.src.ioc_commands_queue:ioc_register_queue:67 - HardStop
+2023-01-26 16:53:53.870 | INFO     | features.steps.src.ioc_commands_queue:ioc_register_queue:68 - <bound method IocCommandQueue.stop of <features.steps.src.ioc_commands_queue.IocCommandQueue object at 0x7fbab1737340>>
+2023-01-26 16:53:53.871 | INFO     | features.steps.src.ioc_commands_queue:ioc_register_queue:68 - <bound method IocCommandQueue.stop of <features.steps.src.ioc_commands_queue.IocCommandQueue object at 0x7fbab1737d60>>
+2023-01-26 16:53:54.872 | INFO     | features.steps.src.ioc_commands_queue:queue_handler:99 - ioc_exec_direct_queue get command:
+2023-01-26 16:53:54.872 | INFO     | features.steps.src.ioc_commands_queue:queue_handler:99 - ioc_exec_direct_queue get command:
+2023-01-26 16:53:54.873 | INFO     | features.steps.src.ioc_commands_queue:queue_handler:100 - {'command': 'HardStop', 'argv': (), 'kwargs': {}}
+2023-01-26 16:53:54.873 | INFO     | features.steps.src.ioc_commands_queue:queue_handler:100 - {'command': 'HardStop', 'argv': (), 'kwargs': {}}
+2023-01-26 16:53:54.873 | INFO     | features.steps.src.ioc_commands_queue:ioc_execution_queue:85 - ioc_exec_direct_queue execute command:
+2023-01-26 16:53:54.874 | INFO     | features.steps.src.ioc_commands_queue:ioc_execution_queue:85 - ioc_exec_direct_queue execute command:
+2023-01-26 16:53:54.874 | INFO     | features.steps.src.ioc_commands_queue:ioc_execution_queue:86 - HardStop
+2023-01-26 16:53:54.874 | INFO     | features.steps.src.ioc_commands_queue:ioc_execution_queue:86 - HardStop
+2023-01-26 16:53:54.874 | INFO     | features.steps.src.ioc_commands_queue:ioc_execution_queue:87 - ()
+2023-01-26 16:53:54.874 | INFO     | features.steps.src.ioc_commands_queue:ioc_execution_queue:87 - ()
+2023-01-26 16:53:54.875 | INFO     | features.steps.src.ioc_commands_queue:ioc_execution_queue:88 - {}
+2023-01-26 16:53:54.875 | INFO     | features.steps.src.ioc_commands_queue:ioc_execution_queue:88 - {}
